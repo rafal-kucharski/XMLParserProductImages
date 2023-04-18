@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed>
+    <records>
+        <record>
+            <id>TE-ZT-MF971-OP1-BL_4001297899</id>
+            <price>1.0</price>
+            <currency>PLN</currency>
+            <brand>ZTE</brand>
+            <title>Router mobilny kat. 6 ZTE MF-971R</title>
+            <url>https://www.play.pl/dlaciebie/produkty/zte/zte-mf971-r1?sku=TE-ZT-MF971-OP1-BL&amp;oid=4001297899</url>
+            <image_link>https://picsum.photos/seed/picsum/1200/800.jpg</image_link>
+        </record>
+        <record>
+            <id>TE-ZT-MF971-OP1-BL_4021692569</id>
+            <price>229</price>
+            <currency>PLN</currency>
+            <brand>ZTE</brand>
+            <title>ZTE MF-971R</title>
+            <url>https://www.play.pl/dlaciebie/produkty/zte/zte-mf971-r1?sku=TE-ZT-MF971-OP1-BL&amp;oid=4021692569</url>
+            <image_link>https://picsum.photos/seed/picsum/800/1200.jpg</image_link>
+        </record>
+        <record>
+            <id>TE-ZT-MF971-OP1-BL_4021691289</id>
+            <price>24900.99</price>
+            <currency>EUR</currency>
+            <brand>ZTE</brand>
+            <title>Router mobilny kat. 6 ZTE MF-971R w abonamencie 99zł x 12 miesięcy + 12 rat x 10zł</title>
+            <url>https://www.play.pl/dlaciebie/produkty/zte/zte-mf971-r1?sku=TE-ZT-MF971-OP1-BL&amp;oid=4021691289</url>
+            <image_link>https://picsum.photos/seed/picsum/1200/1200.jpg</image_link>
+        </record>
+    </records>
+</feed>
