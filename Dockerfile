@@ -24,3 +24,6 @@ WORKDIR /var/www
 
 # Copy existing application directory
 COPY . .
+
+# Entry point
+ENTRYPOINT ["tail", "-f", "/dev/null"]
